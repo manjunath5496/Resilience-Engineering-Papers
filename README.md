@@ -32,5 +32,31 @@ A critical essay on error classification</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Resilience-Engineering-Papers/blob/master/p(16).pdf" style="text-decoration:none;">Six stages to the new view of human error </a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Resilience-Engineering-Papers/blob/master/p(17).pdf" style="text-decoration:none;">Using Observational Study As A Tool For Discovery: Uncovering Cognitive And Collaborative Demands And Adaptive Strategies</a></li>   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Resilience-Engineering-Papers/blob/master/p(18).pdf" style="text-decoration:none;">Resiliency Techniques for Systems Systems-of -Systems: Extending and Applying the Cyber Resiliency Engineering Framework to the Space Domain</a></li> 
+
   
+<li><a target="_blank" href="https://github.com/manjunath5496/Resilience-Engineering-Papers/blob/master/p(19).pdf" style="text-decoration:none;">A risk perspective suitable for resilience engineering</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Resilience-Engineering-Papers/blob/master/p(20).pdf" style="text-decoration:none;">Resilience in Everyday Operations: A Framework for Analyzing Adaptations in High-Risk Work</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Resilience-Engineering-Papers/blob/master/p(21).pdf" style="text-decoration:none;">Resilience Engineering: An Integrative Review of Fundamental Concepts and Directions for Future Research in Safety Management</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Resilience-Engineering-Papers/blob/master/p(22).pdf" style="text-decoration:none;">Engineering Resilience into Safety-Critical Systems</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Resilience-Engineering-Papers/blob/master/p(23).pdf" style="text-decoration:none;">Resilience Engineering: current status of the research and future challenges</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Resilience-Engineering-Papers/blob/master/p(24).pdf" style="text-decoration:none;">Jousting with Dragons:
+A Resilience Engineering approach to managing SMS in the transport sector</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Resilience-Engineering-Papers/blob/master/p(25).pdf" style="text-decoration:none;">Resilience Engineering : Concepts and Precepts</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Resilience-Engineering-Papers/blob/master/p(26).pdf" style="text-decoration:none;">Measuring Resilience Engineering: An Integrative Review and Framework for Bench-Marking Organisational Safety</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Resilience-Engineering-Papers/blob/master/p(27).pdf" style="text-decoration:none;">Resilience Engineering: A New
+Paradigm For Safety In Lean Construction Systems</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Resilience-Engineering-Papers/blob/master/p(28).pdf" style="text-decoration:none;">A White Paper
+on Resilience Engineering for ATM</a></li>
+ 
+ 
+ 
 </ul>
